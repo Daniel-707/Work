@@ -1,1 +1,1 @@
-print ("Daniel Is Mad")
+print ("Hello wrold")
